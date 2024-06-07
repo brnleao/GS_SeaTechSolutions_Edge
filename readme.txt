@@ -1,5 +1,7 @@
 --- OceanGuard: Sistema de Monitoramento e Preservação do Oceano ---
 
+Simulação no Wokwi: https://wokwi.com/projects/399889287137810433
+
 Integrantes do grupo:
  - Bruno Carneiro Leão - 555563
  - Paulo Akira Okama-556840
